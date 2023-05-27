@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif)](josephmarko.com)
 <h1 align="center">Hi 👋, I'm Joseph Marko</h1>
 <h3 align="center">A passionate frontend and backend developer from South Sudan</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align="right" alt="coding" width="250" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephmarko&label=Profile%20views&color=0e75b6&style=flat" alt="josephmarko" /> </p>
 
@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/josephmarko17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josephmarko17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/joseph-akaro-394532224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joseph-akaro-394532224/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joseph-akaro-394532224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joseph-akaro-394532224/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@josephmmakaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@josephmmakaro" height="30" width="40" /></a>
 </p>
 
