@@ -1,4 +1,3 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif)](josephmarko.com)
 <h1 align="center">Hi 👋, I'm Joseph Akaro</h1>
 <h3 align="center"> Full-Stack Engineer | Embedded System Engineer | Juba, South Sudan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephmarko&label=Profile%20views&color=0e75b6&style=flat" alt="josephmarko" /> </p>
