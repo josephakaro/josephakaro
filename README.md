@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephakaro)
 
 
-[![committers.top badge](https://user-badge.committers.top/south_sudan_public/USERNAME.svg)](https://user-badge.committers.top/south_sudan_public/josephakaro)
+[![committers.top badge](https://user-badge.committers.top/south_sudan_public/josephakaro.svg)](https://user-badge.committers.top/south_sudan_public/josephakaro)
 
   <hr>
  
