@@ -7,9 +7,6 @@
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/josephakaro)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephakaro)
 
-
-[![committers.top badge](https://user-badge.committers.top/south_sudan_public/josephakaro.svg)](https://user-badge.committers.top/south_sudan_public/josephakaro)
-
   <hr>
  
   ## Tech Skills 
