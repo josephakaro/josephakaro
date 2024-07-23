@@ -1,4 +1,4 @@
-# 👨‍🏫 Sunday School Teacher | 💻 Software Engineer | Open Source Contributor
+# 💻 Software Engineer | Open Source Contributor | Community Mentor
 
 Welcome to my profile!
 <br>
