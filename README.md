@@ -1,4 +1,4 @@
-# 💻 Backend Engineer | Open Source Contributor | Community Mentor
+# Joseph Akaro | Software Engineer, Entrepreneur & Tech Innovator
 
 Welcome to my profile!
 <br>
