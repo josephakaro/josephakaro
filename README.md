@@ -1,7 +1,5 @@
 # Joseph Akaro | Software Engineer, Entrepreneur & Tech Innovator
 
-[![committers.top badge](https://user-badge.committers.top/south_sudan/josephakaro.svg)](https://user-badge.committers.top/south_sudan/josephakaro)
-
 Welcome to my profile!
 <br>
 ## About Me
